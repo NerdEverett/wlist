@@ -1,1 +1,1 @@
-["vilez3"]
+print("Hello world")
