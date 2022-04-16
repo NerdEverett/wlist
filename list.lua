@@ -1,4 +1,2 @@
 
-return {["K0K0PeIli"] = true, ["JacobTheRealPlayer"] = true}
-
- 
+return {["K0K0PeIli"] = true, ["JacobTheRealPlayer"] = true};
