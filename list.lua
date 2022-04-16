@@ -1,3 +1,3 @@
 
-return {["vilez3"] = true, ["K0K0PeIli"] = true}
+return {["vilez3"] = true, ["K0K0PeIli"] = true, ["JacobTheRealPlayer"] = true}
 
